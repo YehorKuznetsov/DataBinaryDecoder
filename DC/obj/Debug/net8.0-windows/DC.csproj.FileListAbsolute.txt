@@ -1,0 +1,16 @@
+C:\Users\egork\source\repos\Мои проекты\DC\DC\bin\Debug\net8.0-windows\DC.exe
+C:\Users\egork\source\repos\Мои проекты\DC\DC\bin\Debug\net8.0-windows\DC.deps.json
+C:\Users\egork\source\repos\Мои проекты\DC\DC\bin\Debug\net8.0-windows\DC.runtimeconfig.json
+C:\Users\egork\source\repos\Мои проекты\DC\DC\bin\Debug\net8.0-windows\DC.dll
+C:\Users\egork\source\repos\Мои проекты\DC\DC\bin\Debug\net8.0-windows\DC.pdb
+C:\Users\egork\source\repos\Мои проекты\DC\DC\obj\Debug\net8.0-windows\DC.Form1.resources
+C:\Users\egork\source\repos\Мои проекты\DC\DC\obj\Debug\net8.0-windows\DC.csproj.GenerateResource.cache
+C:\Users\egork\source\repos\Мои проекты\DC\DC\obj\Debug\net8.0-windows\DC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egork\source\repos\Мои проекты\DC\DC\obj\Debug\net8.0-windows\DC.AssemblyInfoInputs.cache
+C:\Users\egork\source\repos\Мои проекты\DC\DC\obj\Debug\net8.0-windows\DC.AssemblyInfo.cs
+C:\Users\egork\source\repos\Мои проекты\DC\DC\obj\Debug\net8.0-windows\DC.csproj.CoreCompileInputs.cache
+C:\Users\egork\source\repos\Мои проекты\DC\DC\obj\Debug\net8.0-windows\DC.dll
+C:\Users\egork\source\repos\Мои проекты\DC\DC\obj\Debug\net8.0-windows\refint\DC.dll
+C:\Users\egork\source\repos\Мои проекты\DC\DC\obj\Debug\net8.0-windows\DC.pdb
+C:\Users\egork\source\repos\Мои проекты\DC\DC\obj\Debug\net8.0-windows\DC.genruntimeconfig.cache
+C:\Users\egork\source\repos\Мои проекты\DC\DC\obj\Debug\net8.0-windows\ref\DC.dll
